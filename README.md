@@ -12,7 +12,7 @@ If you click the link below in blue it will send you to my tableau profile and t
 - The first step was to convert the data in jupyter notebook:
 ![data](data.png)
 - This then shows the information being converted:
-![info](info)
+![info](info.png)
 
 This shows the first graph on tableau which shows the number of trips based on gender
 ![tab1](tab1.png)
